@@ -3,8 +3,8 @@
     <div v-if="error" class="page lists-show">
       <div class="wrapper-message">
         <span class="icon-face-sad" />
-        <div class="title-message">Oh Hell No!</div>
-        <div class="subtitle-message">Something f#@& up!</div>
+        <div class="title-message">Oh man.....</div>
+        <div class="subtitle-message">Something Went Wrong!!!!!</div>
       </div>
     </div>
 
