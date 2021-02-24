@@ -14,3 +14,6 @@
     computed: mapState(['tasks']),
   };
 </script>
+
+<style scoped>
+</style>
