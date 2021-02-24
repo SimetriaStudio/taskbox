@@ -4,7 +4,7 @@
       <div class="wrapper-message">
         <span class="icon-face-sad" />
         <div class="title-message">Oh Hell No!</div>
-        <div class="subtitle-message">Something f#@& up</div>
+        <div class="subtitle-message">Something f#@& up!</div>
       </div>
     </div>
 
